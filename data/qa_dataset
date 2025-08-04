@@ -1,0 +1,52 @@
+[
+  {
+    "context": "The Amazon rainforest is the largest tropical rainforest in the world. It is known for its biodiversity.",
+    "question": "What is the largest tropical rainforest in the world?",
+    "answer": "The Amazon rainforest"
+  },
+  {
+    "context": "Albert Einstein developed the theory of relativity, one of the two pillars of modern physics.",
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "context": "The Great Wall of China was built to protect Chinese states from invasions. It stretches over 13,000 miles.",
+    "question": "Why was the Great Wall of China built?",
+    "answer": "To protect Chinese states from invasions"
+  },
+  {
+    "context": "Water boils at 100 degrees Celsius under standard atmospheric pressure.",
+    "question": "At what temperature does water boil under standard pressure?",
+    "answer": "100 degrees Celsius"
+  },
+  {
+    "context": "The mitochondria is known as the powerhouse of the cell because it produces energy.",
+    "question": "Which organelle is called the powerhouse of the cell?",
+    "answer": "The mitochondria"
+  },
+  {
+    "context": "Mount Everest, located in the Himalayas, is the highest mountain peak in the world.",
+    "question": "What is the highest mountain peak in the world?",
+    "answer": "Mount Everest"
+  },
+  {
+    "context": "The Sun is a star at the center of our solar system and provides energy to Earth.",
+    "question": "What is the Sun?",
+    "answer": "A star at the center of our solar system"
+  },
+  {
+    "context": "Mahatma Gandhi led the Indian independence movement against British rule using non-violent methods.",
+    "question": "Who led the Indian independence movement using non-violent methods?",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "context": "Python is a popular programming language known for its readability and wide range of applications.",
+    "question": "Why is Python a popular programming language?",
+    "answer": "Because of its readability and wide range of applications"
+  },
+  {
+    "context": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 63 million square miles.",
+    "question": "Which is the largest ocean on Earth?",
+    "answer": "The Pacific Ocean"
+  }
+]
